@@ -34,7 +34,8 @@ squirrels = [
   "https://dl.dropboxusercontent.com/u/602885/github/squirrelmobster.jpeg",
   "http://f.cl.ly/items/0S1M2d1h0I132S082A05/flying-squirrel.gif",
   "http://assets.atlasobscura.com/media/BAhbCVsHOgZmSSJGdXBsb2Fkcy9wbGFjZV9pbWFnZXMvMTk1YTg0OWY2ZjJhMDAwYWExNGYwYmRhOWYyY2ZkY2JlYzJiNWJiZS5qcGcGOgZFVFsIOgZwOgp0aHVtYkkiCng0MDA+BjsGVFsHOwc6CnN0cmlwWwk7BzoMY29udmVydEkiEC1xdWFsaXR5IDkxBjsGVDA/image.jpg",
-  "https://dl.dropboxusercontent.com/u/19877/tb-squirrel.JPG"
+  "https://dl.dropboxusercontent.com/u/19877/tb-squirrel.JPG",
+  "http://img1.wikia.nocookie.net/__cb20120725054131/glee/images/e/e2/I_ship_what_I_want.gif"
 ]
 
 module.exports = (robot) ->
